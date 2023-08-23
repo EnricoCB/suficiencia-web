@@ -60,8 +60,7 @@ body{
 
 @media (max-width: 768px){
     .descricao-banner{
-        visibility: hidden;
-        height: 0;
+        display: none;
     }
 }
 
